@@ -9,7 +9,7 @@ Game on Pose (GOP) is a Python-based project that leverages human pose detection
 - Simple and intuitive GUI for easy setup and interaction.
 
 ## Requirements
-
+- Hill climb game
 - [Python](https://www.python.org/downloads/) 3.x
 - [Tkinter](https://docs.python.org/3/library/tkinter.html)
 - [MediaPipe](https://github.com/google/mediapipe)
